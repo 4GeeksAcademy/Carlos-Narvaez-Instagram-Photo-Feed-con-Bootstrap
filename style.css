@@ -10,3 +10,7 @@
     border-color: rgba(230, 230, 230, 0.795);
     background-color: rgba(230, 230, 230, 0.795);
 }
+
+.square-img {
+  height: 500px;
+}
