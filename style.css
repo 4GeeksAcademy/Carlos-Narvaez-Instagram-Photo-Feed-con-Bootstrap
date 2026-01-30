@@ -1,0 +1,12 @@
+.nav-tabs .nav-link.active {
+    color: blue; 
+}
+
+.nav-tabs .nav-link {
+    color: black;
+}
+
+.modalIconsBorders{
+    border-color: rgba(230, 230, 230, 0.795);
+    background-color: rgba(230, 230, 230, 0.795);
+}
